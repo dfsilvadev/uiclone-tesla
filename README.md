@@ -17,7 +17,7 @@
 ## Sobre
 
 <p align="center">
-  <img src="public/images/Home.png" alt="Home page">
+  <img src="public/image/Home.png" alt="Home page">
 </p>
 
 Esse projeto é um UI Clone da homepage do site Tesla feito em [React.js](https://pt-br.reactjs.org/).
